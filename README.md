@@ -7,11 +7,9 @@
 `Решение...`
 
 
-
-
-![1](https://github.com/DubininDenis/db2/blob/main/1.png)
-![2](https://github.com/DubininDenis/db2/blob/main/2.png)
-![3](https://github.com/DubininDenis/db2/blob/main/3.png)
+![1](https://github.com/DubininDenis/db2/blob/main/1.png)`
+![2](https://github.com/DubininDenis/db2/blob/main/2.png)`
+![3](https://github.com/DubininDenis/db2/blob/main/3.png)`
 
 ---
 
@@ -20,9 +18,7 @@
 `Решение...`
 
 
-
-
-![4](https://github.com/DubininDenis/db2/blob/main/4.png)
+![4](https://github.com/DubininDenis/db2/blob/main/4.png)`
 
 ---
 
